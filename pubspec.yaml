@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   get: ^4.6.5
   flutter_launcher_icons: ^0.11.0
+  badges: ^2.0.3
 
 flutter_icons:
   android: true
